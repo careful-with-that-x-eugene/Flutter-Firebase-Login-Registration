@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263570232771",
+    "firebase_url": "https://quiz-thursday.firebaseio.com",
+    "project_id": "quiz-thursday",
+    "storage_bucket": "quiz-thursday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263570232771:android:4dd9ee716871da9faf5976",
+        "android_client_info": {
+          "package_name": "design.asifmojtoba.quiz_thursday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263570232771-n5nm4nnl27lkh9346otkuih9a0c1nd99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe88S6dKJxHovoq5p2JknbrpBLf0ho5CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263570232771-n5nm4nnl27lkh9346otkuih9a0c1nd99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
